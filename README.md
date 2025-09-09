@@ -12,4 +12,6 @@ git push -u origin main
 ```
 <hr/>
 
+### Meu Primeiro objeto/classe
+Esse projeto possui o exemplo do meu primiro
 ###### Desenvolvedor: Allan G.
